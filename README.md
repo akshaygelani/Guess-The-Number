@@ -2,7 +2,7 @@
 
 ## React Native Project
 
-This is the Mobile app receives the use input and Then the computer will try to guess which number that was, based on the user's hint it will display the number of try computers needed to guess the number.
+This is the Mobile app receives the user input and Then the computer will try to guess which number that was, based on the user's hint it will display the number of try computers needed to guess the number.
 
 ## Install and Use
 In order to install, clone this repository and run:
