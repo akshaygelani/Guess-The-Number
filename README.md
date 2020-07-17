@@ -1,6 +1,4 @@
 # Guess The Number
-
-## Screenshots
 ![Guess The Number](https://user-images.githubusercontent.com/40865534/87681466-500bd600-c79c-11ea-9b76-9c7e0efe265f.jpg)
 
 ## React Native Project
