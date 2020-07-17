@@ -1,4 +1,4 @@
-# Guess-The-Number
+# Guess The Number
 
 ## React Native Project
 
